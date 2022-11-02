@@ -1,5 +1,5 @@
 # PracticalGit
-New text here - changes in new feature branch
+New text here - Changes in ne feature branch
 Git: for absolute beginners
 This is a new text
 Testing merge command
